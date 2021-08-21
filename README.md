@@ -1,3 +1,6 @@
+# A Travel app based on google map which shows information regarding various travel places.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
